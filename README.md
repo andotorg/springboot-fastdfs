@@ -4,4 +4,7 @@
 > https://zhuanlan.zhihu.com/artskill
 
 #### upload sucessful
-[upload success](https://github.com/andotorg/springboot-fastdfs/blob/master/img/df.png)
+![upload success](https://github.com/andotorg/springboot-fastdfs/blob/master/img/df.png)
+
+### upload page
+![upload success](https://github.com/andotorg/springboot-fastdfs/blob/master/img/upload.png)
