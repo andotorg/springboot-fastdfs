@@ -1,0 +1,11 @@
+#http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#common-application-properties
+server:
+  port: 9090
+
+#search multipart
+spring:
+  http:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
